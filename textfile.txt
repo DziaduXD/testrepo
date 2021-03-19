@@ -3,4 +3,6 @@ sdfdsfddfdf
 ading change XDDDD
 sadassadasa
 asdsasdasdasdadas
-some new change
+lets go
+another edit
+>>>>>>> newbranch
